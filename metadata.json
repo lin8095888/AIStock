@@ -1,0 +1,6 @@
+{
+  "name": "AI 股價與籌碼分析儀 (自營操盤手實戰版)",
+  "description": "專業台股 AI 籌碼深度分析儀，整合 20 日均量比、ATR 波動防守跨距、主力與隔日沖分點監控及高畫質操盤報告匯出。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
